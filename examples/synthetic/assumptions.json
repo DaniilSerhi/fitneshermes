@@ -1,0 +1,8 @@
+{
+  "synthetic": true,
+  "description": "Arbitrary toy coefficients for a software demo; not an athlete profile or prescribed targets.",
+  "base_kcal": 1600,
+  "kcal_per_step": 0.04,
+  "workout_kcal": 120,
+  "tef_rate": 0.1
+}

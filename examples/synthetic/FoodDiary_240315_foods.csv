@@ -1,0 +1,6 @@
+Synthetic demo fixture; invented from scratch
+Food;Calories;Fat;Carbs;Protein;Sodium;Potassium
+Demo item A;750;30;90;30;400;600
+Demo item B;900;40;100;35;500;700
+Demo item C;570;10;70;50;300;400
+Total;2220;80;260;115;1200;1700
