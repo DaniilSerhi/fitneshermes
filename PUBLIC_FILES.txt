@@ -19,4 +19,11 @@ licenses/HERMES-MIT.txt
 scripts/check_public.py
 scripts/fatsecret_parse.py
 scripts/run_demo.py
+showcase/README.md
+showcase/case-0.json
+showcase/case-1.json
+showcase/case-2.json
+showcase/case-3.json
+showcase/cover.svg
+showcase/index.html
 tests/test_demo.py

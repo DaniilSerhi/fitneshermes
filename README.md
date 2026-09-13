@@ -1,5 +1,10 @@
 # FitnesHermes
 
+[![FitnesHermes: A missing value is a decision.](showcase/cover.svg)](https://daniilserhi.github.io/fitneshermes/)
+
+**[Open the interactive case study →](https://daniilserhi.github.io/fitneshermes/)** · No installation or account. Choose a scenario, inspect the result, download the JSON.
+
+
 A personal Telegram coaching project built on Nous Research's Hermes Agent. It connects training context, nutrition exports and wearable observations so an agent can interpret a day and prepare the next plan without asking the user to repeat their history.
 
 This public edition contains a reviewed nutrition parser, a runnable synthetic data pipeline, tests and a description of the deployed architecture. The private assistant's profile, conversations, health records, credentials and deployment configuration are excluded.
